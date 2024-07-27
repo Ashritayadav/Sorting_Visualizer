@@ -18,7 +18,7 @@ Hands-On Experience: Users can experiment with different algorithms and data set
 Algorithm Analysis: Enables users to analyze the performance and efficiency of various sorting algorithms.
 Technologies Used:
 
-Frontend: HTML, CSS, JavaScript
+Frontend: React for building a dynamic and responsive user interface
 Visualization Library: JavaScript-based visualization libraries
 
 The Sorting Algorithm Visualizer is an excellent tool for students, educators, and anyone interested in computer science to explore and understand the fascinating world of sorting algorithms in an engaging and interactive manner.
